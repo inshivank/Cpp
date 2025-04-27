@@ -12,6 +12,15 @@ void display(vector<T> &v){
     cout<<endl;
 }
 int main() {
+    //modern
+    vector<int> nums = {100, 200, 300};
+    for (int x : nums) {
+      cout << x << " ";
+    }
+    cout<<endl;
+
+
+    
     //integer vector of length zero
     vector<int> vec; 
 
