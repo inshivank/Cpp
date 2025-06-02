@@ -2,8 +2,8 @@
 using namespace std;
 
 int main(){
-    cout<<"hello";
-    cout<<"hello"<<"\n";
-    cout<<"";
+    int x;
+    long x1;
+    long long x2;
 
 }
